@@ -1115,4 +1115,6 @@ namespace Offsets {
          inline constexpr uintptr_t HullsEnd = 0x38;
     }
 
+
+
 }
